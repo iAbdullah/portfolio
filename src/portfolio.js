@@ -114,7 +114,7 @@ const workExperiences = {
     {
       role: "Financial Data Analyst & AI Specialist Intern",
       company: "Blomal Capital",
-      companylogo: require("./assets/images/blomalLogo.png"),
+      companylogo: require("./assets/images/blomalLogo.webp"),
       date: "Dec. 2024 - Mar. 2025",
       desc: "Automated financial metrics and deployed GPT-4 integrated agents to process complex financial queries.",
       descBullets: [
@@ -156,9 +156,9 @@ const bigProjects = {
     },
     {
       image: null,
-      projectName: "FinBrain-OS",
+      projectName: "StockVision",
       projectDesc:
-        "Intelligent financial management platform leveraging FastAPI, AI analytics, and data-driven decision making.",
+        "AI-powered platform for analyzing Saudi stock market trends and predicting price movements.",
       footerLink: []
     }
   ],
@@ -167,13 +167,13 @@ const bigProjects = {
 
 // Achievements
 const achievementSection = {
-  title: emoji("Achievements & Certifications 🏆"),
+  title: emoji("Professional Licenses 💼 & Certifications 🏆"),
   subtitle: "Professional Certifications and Technical Achievements",
   achievementsCards: [
     {
-      title: "Accredited AI Specialist",
+      title: "Professional Licenses: Specialist: Artificial Intelligence",
       subtitle: "Saudi Council of Engineers (ID: 1089300)",
-      image: require("./assets/images/sceLogo.png"),
+      image: require("./assets/images/sceLogo.jpg"),
       imageAlt: "Saudi Council of Engineers",
       footerLink: []
     },
@@ -248,7 +248,7 @@ const contactInfo = {
     "Feel free to contact me regarding opportunities, projects, or collaboration.",
   number: "+966538278138",
   email_address: "abdullahalshahri22@gmail.com",
-  profile_image: require("./assets/images/abdullah.png")
+  profile_image: require("./assets/images/abdullahProfile.jpeg")
 };
 
 // Twitter
